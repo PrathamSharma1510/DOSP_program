@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/prathamsharma/Downloads/FTest/FTest.fsproj": {}
+  },
+  "projects": {
+    "/Users/prathamsharma/Downloads/FTest/FTest.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/prathamsharma/Downloads/FTest/FTest.fsproj",
+        "projectName": "FTest",
+        "projectPath": "/Users/prathamsharma/Downloads/FTest/FTest.fsproj",
+        "packagesPath": "/Users/prathamsharma/.nuget/packages/",
+        "outputPath": "/Users/prathamsharma/Downloads/FTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/prathamsharma/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.401/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.400, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k8C17BxfbcfD5tm83Tr3Wp9dAib0rYWRsQWscLE5+DYbLWsVSGtreDxG0aeugjvbiuqHmJAQqxfbGhrUOjQGPg==",
+  "success": true,
+  "projectFilePath": "/Users/prathamsharma/Downloads/FTest/FTest.fsproj",
+  "expectedPackageFiles": [
+    "/Users/prathamsharma/.nuget/packages/fsharp.core/7.0.400/fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
